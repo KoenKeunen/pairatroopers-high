@@ -1,4 +1,4 @@
-# pairatroopers-high
+# pairatroopers highscore privacy
 
 Deleting your account and data – Paira Troopers
 
