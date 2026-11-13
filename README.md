@@ -13,3 +13,7 @@ Please include the following in your email:
 We will delete the high scores and gameplay data linked to your account.
 
 Google may retain certain data as required for security, fraud prevention, or legal obligations.
+
+# privacy
+
+The app uses only your user ID to place you on the global leaderboard. Apart from your score, no other information is stored or collected. The app does not track anything, contains no advertisements, includes no telemetry, and collects no other data from you.
