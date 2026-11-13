@@ -16,4 +16,4 @@ Google may retain certain data as required for security, fraud prevention, or le
 
 # privacy
 
-The app uses only your user ID to place you on the global leaderboard. Apart from your score, no other information is stored or collected. The app does not track anything, contains no advertisements, includes no telemetry, and collects no other data from you.
+The app uses only your user ID to place you on the global leaderboard. Apart from your score, no other information is stored or collected. The app does not track anything, contains no advertisements or telemetry, and does not collect any other data from you. The data is not shared with third parties.
