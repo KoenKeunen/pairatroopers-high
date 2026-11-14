@@ -4,10 +4,12 @@ The app uses only your Google Play UserID to rank you on the global leaderboard.
 
 # pairatroopers highscore privacy
 
-You can delete yourself from the leaderboard in your own Play Games app. In 
+You can delete yourself from the leaderboard in Google's Play Games app. In 
 
 Profile → Privacy and settings → Your data → Remove Profile and Game Data
 
 you can delete the highscore and all pairatroopers data from Google Play
+
+If you need help, please email neingamingstudios@gmail.com
 
 Google themselves may retain certain data as required for security, fraud prevention, or legal obligations.
